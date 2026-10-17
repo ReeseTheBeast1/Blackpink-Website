@@ -1,0 +1,477 @@
+.jumbotron {
+    background-color:#fa98e5;
+    text-align:center;
+}
+.bars {
+    margin-left:180px;
+    text-align:center;
+    font-size:25px;
+}
+hr {
+    border-color:#fa98e5;
+    border-width:10px;
+}
+
+p {
+    font-size:20px;
+}
+.space {
+    height:50px;
+}
+
+.member_titles {
+    float:right;
+    width:25%;
+    text-align:center;
+    text-decoration:underline;
+    text-decoration-color:#fa98e5;
+     
+}
+
+.lisa {
+    float:left;
+    background-size:100% 100%;
+    background-image: url("https://i2.wp.com/blackpinkupdate.com/wp-content/uploads/2019/02/cover-BLACKPINK-Lisa-moonshot-Micro-Correctfit-Cushion.jpg?fit=730%2C836&ssl=1");
+    width:25%;
+    height:300px;
+}
+.rose {
+    float:left;
+    background-size:100% 100%;
+    background-image: url("https://i1.sndcdn.com/artworks-NEqICFr9sNcJ2YMC-pnDcZw-t500x500.jpg");
+    width:25%;
+    height:300px;
+}
+.jennie {
+    float:left;
+    background-size:100% 100%;
+    background-image: url("https://i0.wp.com/ulzza.com/wp-content/uploads/2019/01/Blackpink-Jennie-Starts-A-New-Hairstyle-Trend-Around-The-World.jpg?fit=640%2C700&ssl=1");
+    width:25%;
+    height:300px;
+}
+.jisoo {
+    float:left;
+    background-size:100% 100%;
+    background-image: url("jisoo.webp");
+    width:25%;
+    height:300px;
+}
+
+
+.lisa:hover {
+    font-family:serif;
+    font-size:23.8px;
+    background-blend-mode:soft-light;
+    background-color:#c8c8c8;
+    color:black;
+    border:solid;
+    border-color:#fa98e5;
+    padding:5px;
+    
+}
+.rose:hover {
+    font-family:serif;
+    font-size:23.8px;
+    background-blend-mode:soft-light;
+    background-color:#c8c8c8;
+    color:black;
+    border:solid;
+    border-color:#fa98e5;
+    padding:5px;
+    
+}
+.jennie:hover {
+    font-family:serif;
+    font-size:23.8px;
+    background-blend-mode:soft-light;
+    background-color:#c8c8c8;
+    color:black;
+    border:solid;
+    border-color:#fa98e5;
+    padding:5px;
+    
+}
+.jisoo:hover {
+    font-family:serif;
+    font-size:23.8px;
+    background-blend-mode:soft-light;
+    background-color:#c8c8c8;
+    color:black;
+    border:solid;
+    border-color:#fa98e5;
+    padding:5px;
+    
+}
+
+
+table {
+    width:0px;
+    height:0px;
+    font-size:0px;
+}
+
+.flag {
+    visibility:hidden;
+    width:70px;
+    height:40px;
+}
+.lisa:hover .lisa_flag {
+    visibility:visible;
+}
+.rose:hover .rose_flag {
+    visibility:visible;
+}
+
+.jennie:hover .jennie_flag {
+    visibility:visible;
+}
+
+.jisoo:hover .jisoo_flag {
+    visibility:visible;
+}
+.invisible {
+    visibility:hidden;
+}
+
+
+
+/* timeline page */
+
+
+
+.dot1 {
+    position:relative;
+    width:30px;
+    height:30px;
+    border-radius:50%;
+    background-color:#fa98e5;
+    bottom:140px;
+    right:105px;
+}
+.dot2 {
+    position:relative;
+    float:right;
+    width:30px;
+    height:30px;
+    border-radius:50%;
+    background-color:#fa98e5;
+    bottom:170px;
+    left:100px;
+}
+.timeline {
+    position:relative;
+    bottom:100px;
+    width:1330px;
+    right:100px;
+}
+.dates {
+    position:relative;
+    float:left;
+    bottom:410px;
+    font-size:13px;
+    font-weight:bold;
+    color:#414141
+}
+.dates1 {
+    position:relative;
+    float:left;
+    bottom:510px;
+    font-size:13px;
+    font-weight:bold;
+    color:#414141
+}
+.dates2 {
+    position:relative;
+    float:left;
+    bottom:610px;
+    font-size:13px;
+    font-weight:bold;
+    color:#414141
+}
+
+
+
+
+.vertical_line {
+    position:relative;
+    height:30px;
+    width:10px;
+    background-color:#fa98e5;
+   
+    
+    
+}
+.albums1 {
+    position:relative; 
+    bottom:550px;
+    height:100px;
+    width:100px;
+}
+.albums2 {
+    position:relative; 
+    bottom:650px;
+    height:100px;
+    width:100px;
+}
+#line1 {
+    left:30px;
+     bottom:170px;
+    
+}
+#line2 {
+    left:160px;
+    bottom:200px;
+    
+}
+
+#line3 {
+     left:290px;
+    bottom:230px;
+    
+}
+
+#line4 {
+     left:420px;
+    bottom:260px;
+
+}
+
+#line5 {
+     left:550px;
+    bottom:290px;
+    
+}
+
+#line6 {
+     left:680px;
+    bottom:320px;
+    
+}
+
+#line7 {
+     left:810px;
+    bottom:350px;
+    
+}
+#line8 {
+    left:940px;
+    bottom:380px;  
+}
+
+#line9 {
+    left:1070px;
+    bottom:410px;
+    
+}
+
+#line10 {
+    left:1200px;
+    bottom:440px;
+}
+
+
+
+#squareonedate {
+    right:130px;
+}
+
+
+#squareone {
+    position:relative;
+    right:680px;
+    width:100px;
+    height:100px;
+    
+}
+#squareone:hover {
+    opacity:66%;
+}
+
+#squaretwodate {
+    right:120px;
+}
+#squaretwo {
+    position:relative;
+    right:665px;
+    width:100px;
+    height:100px;
+    
+}
+#squaretwo:hover {
+    opacity:66%;
+}
+
+#aiiyldate {
+    right:95px;
+    
+}
+#aiiyl {
+    right:640px;
+    
+}
+#aiiyl:hover {
+    opacity:66%;
+    
+    
+}
+#squareupdate {
+    right:65px;
+}
+#squareup {
+    right:613px;
+}
+#squareup:hover {
+    opacity:66%;
+}
+#solodate {
+    right:55px;
+    
+}
+#solo {
+    right:585px;
+    
+}
+#solo:hover {
+    opacity:66%;
+}
+#ktldate {
+    left:515px;
+    
+}
+#ktl {
+    right:10px;
+    
+}
+#ktl:hover {
+    opacity:66%;
+}
+#hyltdate {
+    left:550px;
+}
+#hylt {
+    left:20px;
+}
+#hylt:hover {
+    opacity:66%;
+}
+#icecreamdate {
+    left:570px;
+    
+}
+#icecream {
+    left:50px;
+    
+}
+#icecream:hover {
+    opacity:66%;
+}
+#thealbumdate {
+    left:600px;
+    
+}
+#thealbum {
+    left:75px;
+    
+}
+#thealbum:hover {
+    opacity:66%;
+}
+#otgdate {
+    left:620px;
+    
+}
+#otg {
+    left:100px;
+    
+}
+#otg:hover {
+    opacity:66%;
+}
+#lalisadate {
+    left:1153px;
+    
+    
+}
+#lalisa {
+    left:135px;
+    
+}
+#lalisa:hover {
+    opacity:66%;
+}
+.album_titles {
+    position:relative;
+    bottom:205px;
+    font-size:15px;
+}
+#squareonetitle {
+    right:132px;
+    top:58px;
+}
+#squaretwotitle {
+    right:13px;
+    top:32px;
+    
+}
+#aiiyltitle {
+    left:97px;
+    top:6px;
+  
+    
+}
+#squareuptitle {
+     left:252px;
+    bottom:20px;
+}
+#solotitle {
+    left:403px;
+    bottom:46px;
+    
+}
+#ktltitle {
+     left:502px;
+    bottom:72px;
+    
+}
+#hylttitle {
+     left:617px;
+    bottom:98px;
+    
+}
+#icecreamtitle {
+     left:778px;
+    bottom:125px;
+    
+}
+#thealbumtitle {
+     left:908px;
+    bottom:150px;
+}
+#Rtitle {
+     left:1058px;
+    bottom:176px;
+    
+}
+#lalisatitle {
+     left:1185px;
+    bottom:203px;
+    
+}
+
+iframe {
+    border:solid;
+    border-color:#fa98e5;
+    border-width:5px;
+    position:relative;
+    bottom:550px;
+}
+
+#video {
+}
+
+
+
+
+
+
+
